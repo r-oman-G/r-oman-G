@@ -9,5 +9,5 @@
 
 
 # 🤝 Connect with me
-[![N|Solid](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png)](grunin.rg@gmail.com)
-[![N|Solid](https://web.telegram.org/img/logo_share.png)](https://t.me/marshmallowmee)
+TELEGRAM: https://t.me/marshmallowmee
+MAIL: grunin.rg@gmail.com
