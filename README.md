@@ -14,4 +14,4 @@
 
 • WhatsApp: +995 551 597848
 
-• Email: your.email@example.com (optional)
+• Email: grunin.rg@gmail.com
